@@ -1,0 +1,37 @@
+{
+    "M_STATIC_MARKER_ARRAY": [
+        {
+            "M_MARKER_NAME": "Trader City GM",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                3700,
+                0,
+                6000
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Trader City Kumyrna",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                8350,
+                0,
+                6000
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        }
+    ],
+    "m_CanUse3DMarkers": 1
+}
