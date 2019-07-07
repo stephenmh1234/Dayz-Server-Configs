@@ -7,7 +7,7 @@
         "ShowFeed": 1,
         "LogFeed": 1,
         "Color": "WHITE",
-        "Message": "KillerInfo killed VictimInfo in Melee combat."
+        "Message": "KillerInfo killed VictimInfo in hand to hand combat."
     },
     "PVPMeleeWeaponKill": {
         "ShowFeed": 1,
