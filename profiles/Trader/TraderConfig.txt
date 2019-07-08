@@ -251,6 +251,7 @@
 		NailgGun,
 		glock_18,
 		P99,
+		Mk22,
 		SR1M,
 		M9_Berreta,
 		Pistol_Tokarev,
@@ -283,43 +284,42 @@
 		UMP45,		W,	800,	350
 		MP5K,		W,	1000,	450
 		SR2,		W,
-		SR2_black,	W,
+
 		MAC10,		W,
-		MAC10_desert,	W,
+	
 		CBJ,		W,
 		PP19_01,	W,
 		MP7,		W,
 
 	<Category> Assault Rifles
-		FAL,		W,	1000,	450
-		AKM,		W,	1500,	750
-		M4A1,		W,	1500,	750
+		SCAR,
+		MSFC_SCAR17,		W,		4000,		2000
+		M4A1,			W,	1500,	750
+		MSFC_HK416,		W,		4000,		2000
 		CS5,
-		DDM,			W,	1700, 	950
+		DDM,			W,		1700, 		950
+		M16,
+		MSFC_M16A4,		W,		4000,		2000
+		Mk22,
+		MSFC_AR15,		W,		4000,		2000
+		MSFC_TacAR15,		W,		4000,		2000
+		MSFC_TacAR15_SBR,	W,		4000,		2000	
+		FAL,			W,		1000,		450
+		sg550,
+		SG552,
+		AK74UM,	
+		KAC,
+		ACE23,
+		AS_VAL,
+		MSFC_AS_VAL,		W,		4000,		2000
+		MSFC_AK_ALFA,		W,		4000,		2000
 		MSFC_AK15M,		W,		4000,		2000
 		MSFC_AK12M,		W,		4000,		2000
 		MSFC_AK13M,		W,		4000,		2000
 		VityazSN,
-		sg550,
-		SG552,
-		AK74UM,
-		RPK,
-		KAC,
-		ACE23,
-		SCAR,
-		AS_VAL,
-		M16,
-		Mk22,
-		MSFC_TacAR15,		W,		4000,		2000
-		MSFC_AR15,		W,		4000,		2000	
-		MSFC_M16A4,		W,		4000,		2000
-		MSFC_TacAR15_SBR,	W,		4000,		2000
-		MSFC_AS_VAL,		W,		4000,		2000
-		MSFC_AK_ALFA,		W,		4000,		2000
-		MSFC_HK416,		W,		4000,		2000
 		MSFC_AK15,		W,		4000,		2000
 		MSFC_AK103,		W,		4000,		2000
-		MSFC_SCAR17,		W,		4000,		2000
+		AKM,			W,		1500,		750
 		MSFC_AKM_Golden,	W,		3000,		1500
 
 	<Category> Light Machine Guns
@@ -353,15 +353,15 @@
 		Ammo_556x45,		1,	5,	3
 		Ammo_762x39,		1,	5,	3
 		Ammo_762x54,		1,	10,	6
-		Ammo_12x99
-		Ammo_12x99Tracer_Green (m82 green tracer)
-		Ammo_12x99Tracer_Yell (m82 yell tracer)
-		Ammo_nails (nailgun)
-		Ammo_762x25 (Tokarev pistol)
-		Ammo_762x33 (.50 carbine)
-		Ammo_792x57 (k98)
-		Ammo_9x39Tracer
-		Ammo_nails
+		Ammo_12x99,
+		Ammo_12x99Tracer_Green,
+		Ammo_12x99Tracer_Yell,
+		Ammo_nails,
+		Ammo_762x25,
+		Ammo_762x33,
+		Ammo_792x57,
+		Ammo_9x39Tracer,
+		Ammo_nails,
 		
 	<Category> Ammo X5
 		Ammo_380,		5,	5,	5
@@ -401,13 +401,13 @@
 		AmmoBox_556x45_20Rnd,	*,	80,	60
 		AmmoBox_762x39_20Rnd,	*,	80,	60
 		AmmoBox_762x54_20Rnd,	*,	200,	120
-		AmmoBox_12x99_10Rnd_TracerGreen
-		AmmoBox_12x99_10Rnd_TracerYell
-		AmmoBox_762x25_25Rnd
-		AmmoBox_762x33_20Rnd
-		AmmoBox_792x57_25Rnd
-		AmmoBox_9x39_20Rnd_Tracer
-		AmmoBox_12x99_10Rnd
+		AmmoBox_12x99_10Rnd_TracerGreen,
+		AmmoBox_12x99_10Rnd_TracerYell,
+		AmmoBox_762x25_25Rnd,
+		AmmoBox_762x33_20Rnd,
+		AmmoBox_792x57_25Rnd,
+		AmmoBox_9x39_20Rnd_Tracer,
+		AmmoBox_12x99_10Rnd,
 
 	<Category> Magazines
 		Mag_IJ70_8Rnd,		M,	30,	15
