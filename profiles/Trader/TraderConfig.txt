@@ -83,7 +83,7 @@
 		DisinfectantSpray,	*,	8,	5
 		//Syringe,		*,	8, 	5
 		StartKitIV,		*,	10,	6
-		SalineBag,		*,	15,	8
+		SalineBag,		*,	125,	75
 		BloodBagEmpty,		*,	18,	10
 		FirstAidKit,		*,	20,	10
 		//Defibrillator,	*,	35, 	20
@@ -104,7 +104,6 @@
 		MoneyRuble25,		1,	25,	-1
 		MoneyRuble50,		1,	50,	-1
 		MoneyRuble100,		1,	100,	-1
-		Wallet			1, 	250, 	100
 
 
 <Trader> Misc Trader
@@ -237,101 +236,97 @@
 		CattleProd,		W,	25,	15
 		BaseballBat,		W,	35,	17
 		NailedBaseballBat,	W,	45,	20
-		Tomahawk,
+		Tomahawk,		W,	50,	35
 
 	<Category> Sidearms
-		MakarovIJ70,		W,	100,	50
-		CZ75,			W,	135,	70
-		FNX45,			W,	175,	90
-		PB1967,
-		COLT_1911,
-		GSH18,
-		M1935,
-		p220,
-		NailgGun,
-		glock_18,
-		P99,
-		Mk22,
-		SR1M,
-		M9_Berreta,
-		Pistol_Tokarev,
-		Pistol_Tokarev_Old,
-		StechkinAPS,
+		MakarovIJ70,		W,	275,	225
+		CZ75,			W,	325,	275
+		FNX45,			W,	350,	250
+		PB1967,			W,	400, 	325
+		COLT_1911,		W,	425,	375	
+		GSH18,			W,	400,	300
+		M1935,			W,	450,	350
+		p220,			W,	400,	325
+		NailgGun,		W,	100,	45
+		glock_18,		w,	500,	450
+		P99,			W,	400,	300
+		Mk22,			W,	300,	200
+		SR1M,			W,	375,	225
+		M9_Berreta,		W,	430,	395
+		Pistol_Tokarev,		W,	345,	275	
+		StechkinAPS,		W,	600,	525
 
 	<Category> Rifles
-		Izh18,		W,	350,	175
-		Mosin9130,	W,	400,	200
-		CZ527,		W,	500,	250
-		Winchester70,	W,	500,	250
-		SKS,		W,	600,	300
-		M1Carbine,	W,
-		K_98,		W,
-		svt40,		W,
-		Kar98real,	W,
-		M1A,
+		Izh18,		W,	1000,	625
+		Mosin9130,	W,	2700,	1700
+		CZ527,		W,	1700,	1100
+		Winchester70,	W,	1250,	620
+		SKS,		W,	2200,	1400
+		M1Carbine,	W,	2250,	1250
+		K_98,		W,	2000,	1200
+		svt40,		W,	2400,	1500
+		Kar98real,	W,	1900,	1300
+		M1A,		W,	2700,	1650
 	<Category> Shotguns
-		Mp133Shotgun,		W,	500,	250	
-		TOZ34,			W,
-		590_Shotgun,		W,
-		M1912_Shotgun,		W,
-		Mp153Shotgun_black,	W,
-		Mp153Shotgun,		W,
-		MSFC_Mossberg590,	W,		4000,		2000
-		MSFC_BlackEagleII,	W,		4000,		2000
+		Mp133Shotgun,		W,	1000,	650	
+		TOZ34,			W,	1350,	600
+		590_Shotgun,		W,	1400,	900
+		M1912_Shotgun,		W,	1700,	1200
+		Mp153Shotgun_black,	W,	1800,	1000
+		Mp153Shotgun,		W,	1800,	1000
+		MSFC_Mossberg590,	W,	2000,	1200
+		MSFC_BlackEagleII,	W,	2200,	1300
 
 	<Category> Submachine Guns
 		CZ61,		W,	700,	300
 		UMP45,		W,	800,	350
 		MP5K,		W,	1000,	450
-		SR2,		W,
-
-		MAC10,		W,
-	
-		CBJ,		W,
-		PP19_01,	W,
-		MP7,		W,
+		SR2,		W,	1400,	900
+		MAC10,		W,	1200,	700
+		CBJ,		W,	1300,	800
+		PP19_01,	W,	1350,	900
+		MP7,		W,	1600,	1000
 
 	<Category> Assault Rifles
-		SCAR,
-		MSFC_SCAR17,		W,		4000,		2000
-		M4A1,			W,	1500,	750
-		MSFC_HK416,		W,		4000,		2000
-		CS5,
-		DDM,			W,		1700, 		950
-		M16,
-		MSFC_M16A4,		W,		4000,		2000
-		Mk22,
-		MSFC_AR15,		W,		4000,		2000
-		MSFC_TacAR15,		W,		4000,		2000
-		MSFC_TacAR15_SBR,	W,		4000,		2000	
-		FAL,			W,		1000,		450
-		sg550,
-		SG552,
-		AK74UM,	
-		KAC,
-		ACE23,
-		AS_VAL,
-		MSFC_AS_VAL,		W,		4000,		2000
-		MSFC_AK_ALFA,		W,		4000,		2000
-		MSFC_AK15M,		W,		4000,		2000
-		MSFC_AK12M,		W,		4000,		2000
-		MSFC_AK13M,		W,		4000,		2000
-		VityazSN,
-		MSFC_AK15,		W,		4000,		2000
-		MSFC_AK103,		W,		4000,		2000
-		AKM,			W,		1500,		750
-		MSFC_AKM_Golden,	W,		3000,		1500
+		SCAR,			W,		3250,		2400
+		MSFC_SCAR17,		W,		4000,		2600
+		M4A1,			W,		2250,		1400
+		MSFC_HK416,		W,		3300,		1700
+		CS5,			W,		2500,		1500
+		DDM,			W,		2100,		1300
+		M16,			W,		2250,		1400
+		MSFC_M16A4,		W,		3250,		2400	
+		MSFC_AR15,		W,		3250,		2000
+		MSFC_TacAR15,		W,		3500,		2400
+		MSFC_TacAR15_SBR,	W,		3250,		2300
+		FAL,			W,		2100,		1300
+		sg550,			W,		2250,		1300
+		SG552,			W,		2100,		1300
+		AK74UM,			W,		2500,		1450
+		KAC,			W,		2400,		1500
+		ACE23,			W,		2300,		1450
+		AS_VAL,			W,		2400,		1400
+		MSFC_AS_VAL,		W,		2500,		2000
+		MSFC_AK_ALFA,		W,		2700,		1700
+		MSFC_AK15M,		W,		2500,		1600
+		MSFC_AK12M,		W,		2600,		1600
+		MSFC_AK13M,		W,		2400,		1500
+		VityazSN,		W,		2200,		1350
+		MSFC_AK15,		W,		2250,		1400
+		MSFC_AK103,		W,		2400,		1500
+		AKM,			W,		2400,		1300
+		MSFC_AKM_Golden,	W,		17000,		14500
 
 	<Category> Light Machine Guns
-		MSFC_RPK74,	W,		4000,		2000	
-		MSFC_RPK,	W,		4000,		2000
+		MSFC_RPK74,	W,		1700,		1000	
+		MSFC_RPK,	W,		1800,		1000
 		
 	<Category> Sniper Rifles
 		VSS,		W,	1600,	960
 		SVD,		W,	2000,	1200
-		m82,		W,	8500,	6500
-		AWMreal, 	W, 	
-		vssk,
+		m82,		W,	14000,	9500
+		AWMreal, 	W, 	13000,	8500
+		vssk,		W,	17000,	14000
 
 
 
@@ -353,41 +348,14 @@
 		Ammo_556x45,		1,	5,	3
 		Ammo_762x39,		1,	5,	3
 		Ammo_762x54,		1,	10,	6
-		Ammo_12x99,
-		Ammo_12x99Tracer_Green,
-		Ammo_12x99Tracer_Yell,
-		Ammo_nails,
-		Ammo_762x25,
-		Ammo_762x33,
-		Ammo_792x57,
-		Ammo_9x39Tracer,
-		Ammo_nails,
-		
-	<Category> Ammo X5
-		Ammo_380,		5,	5,	5
-		Ammo_9x19,		5,	5,	5
-		Ammo_45ACP,		5,	5,	5
-		Ammo_12gaPellets,	5,	15,	5
-		Ammo_12gaSlug,		5,	20,	10
-		Ammo_9x39,		5,	20,	10
-		Ammo_9x39AP,		5,	25,	15
-		Ammo_308Win,		5,	25,	15
-		Ammo_556x45,		5,	25,	15
-		Ammo_762x39,		5,	25,	15
-		Ammo_762x54,		5,	100,	30
-		
-	<Category> Ammo X10
-		Ammo_380,		5,	10,	10
-		Ammo_9x19,		5,	10,	10
-		Ammo_45ACP,		5,	10,	10
-		Ammo_12gaPellets,	5,	30,	10
-		Ammo_12gaSlug,		5,	40,	20
-		Ammo_9x39,		5,	40,	20
-		Ammo_9x39AP,		5,	50,	30
-		Ammo_308Win,		5,	50,	30
-		Ammo_556x45,		5,	50,	30
-		Ammo_762x39,		5,	50,	30
-		Ammo_762x54,		5,	100,	60
+		Ammo_12x99,		1,	5,	3
+		Ammo_12x99Tracer_Green,	1,	6,	3
+		Ammo_12x99Tracer_Yell,	1,	6,	3
+		Ammo_762x25,		1,	5,	2
+		Ammo_762x33,		1,	5,	2
+		Ammo_792x57,		1,	5,	2
+		Ammo_9x39Tracer,	1,	3,	1
+		Ammo_nails,		1,	1,	1
 	
 	<Category> Ammo Box's
 		AmmoBox_380_35rnd,	*,	28,	0
@@ -401,13 +369,13 @@
 		AmmoBox_556x45_20Rnd,	*,	80,	60
 		AmmoBox_762x39_20Rnd,	*,	80,	60
 		AmmoBox_762x54_20Rnd,	*,	200,	120
-		AmmoBox_12x99_10Rnd_TracerGreen,
-		AmmoBox_12x99_10Rnd_TracerYell,
-		AmmoBox_762x25_25Rnd,
-		AmmoBox_762x33_20Rnd,
-		AmmoBox_792x57_25Rnd,
-		AmmoBox_9x39_20Rnd_Tracer,
-		AmmoBox_12x99_10Rnd,
+		AmmoBox_12x99_10Rnd_TracerGreen,	*,	200,	120
+		AmmoBox_12x99_10Rnd_TracerYell,		*,	200,	120
+		AmmoBox_762x25_25Rnd,			*,	200,	120
+		AmmoBox_762x33_20Rnd,			*,	200,	120
+		AmmoBox_792x57_25Rnd,			*,	200,	120
+		AmmoBox_9x39_20Rnd_Tracer,		*,	175,	100
+		AmmoBox_12x99_10Rnd,			*,	200,	100
 
 	<Category> Magazines
 		Mag_IJ70_8Rnd,		M,	30,	15
@@ -422,73 +390,74 @@
 		Mag_STANAG_30Rnd,	M,	220,	110
 		Mag_VSS_10Rnd,		M,	220,	110
 		Mag_SVD_10Rnd,		M,	250,	125
-		Mag_M1_15Rnds,
-		Mag_rpk_40Rnd_Tracers,
-		Mag_rpk_40RndSpar_Tracer,
-		Mag_val_20Rnd_coupled_Tracer,
-		Mag_tokarev_8Rnd,
-		Mag_CS5_10rnd,
-		Mag_FP4_AK101_30Rnd,
-		Mag_MakarovPB_8Rnd,
-		Mag_VSK94_20Rnd,
-		Mag_DDM_30Rnd,
-		Mag_rpk_40RndSpar,
-		Mag_val_20Rnd_coupled,
-		Mag_vss_10Rnds_coupled,
-		Mag_GSH18_18Rnd,
-		Mag_m1935_13Rnd,
-		Mag_sg550_30Rnd,
-		mag_p220_8rnd,
-		Mag_SR2_30Rnd,
-		Mag_AK74UM_30Rnd,
-		Mag_mac10_30Rnd,
-		Mag_m82_10Rnd,
-		Mag_m82_10Rnd308,
-		Mag_CBJ_20Rnd,
-		Mag_CBJ_30Rnd,
-		Mag_CBJ_50Rnd,
-		Mag_Nailgun_50n,
-		Mag_psg_5Rnd,
-		Mag_SR1M_18Rnd,
-		Mag_RPK_40Rnd,
-		Mag_Vityaz_30Rnd,
-		mag_svt_10rnd,
-		mag_kac_30rnd,
-		Mag_glock_18_17Rnd,
-		M_1911_7Rnd,		
-		Mag_ace23_30rnd,
-		Mag_sg552_30Rnd,
-		Mag_pp19_30Rnd,
-		Mag_m9_15Rnd,
-		Mag_Scar_20rnd,
-		Mag_VAL_20Rnd,
-		mag_vss_10rnds,
-		Mag_pp99_16Rnd,
-		Mag_M14_10Rnd,
-		Mag_M14_20Rnd,
-		Mag_Mk22_14Rnd,
-		Mag_MP7_40Rnd,
-		Mag_SCAR_20Rnd,
-		Mag_APS_20Rnd,
-		Mag_AWMreal_5Rnd,
-		MSFC_DRUM762_Mag_75Rnd,		*,		500,		250
-       		MSFC_RPK74_Mag_45Rnd,		*,		500,		250	
-        	MSFC_STANAG556_Mag_30Rnd,	*,		500,		250
-        	MSFC_PMAG556_Mag_30Rnd,		*,		500,		250
-		MSFC_PMAG762_Mag_30Rnd,		*,		500,		250
-		MSFC_SCAR17_Mag_20Rnd,		*,		350,		125
-		MSFC_RPK_Mag_45Rnd,		*,		350,		125
+		Mag_M1_15Rnds,		M,	150,	80
+		Mag_rpk_40Rnd_Tracers,	M,	250,	125
+		Mag_rpk_40RndSpar_Tracer,	M,	250,	125
+		Mag_val_20Rnd_coupled_Tracer,	M,	250,	125
+		Mag_tokarev_8Rnd,		M,	75,	25
+		Mag_CS5_10rnd,			M,	100,	50
+		Mag_FP4_AK101_30Rnd,		M,	125,	75
+		Mag_MakarovPB_8Rnd,		M,	60,	30
+		Mag_VSK94_20Rnd,		M,	225,	125
+		Mag_DDM_30Rnd,			M,	200,	125
+		Mag_rpk_40RndSpar,		M,	250,	120
+		Mag_val_20Rnd_coupled,		M,	225,	100
+		Mag_vss_10Rnds_coupled,		M,	200,	125
+		Mag_GSH18_18Rnd,		M,	250,	100
+		Mag_m1935_13Rnd,		M,	250,	100
+		Mag_sg550_30Rnd,		M,	200,	100
+		mag_p220_8rnd,			M,	80,	25
+		Mag_SR2_30Rnd,			M,	150,	100
+		Mag_AK74UM_30Rnd,		M,	150,	75
+		Mag_mac10_30Rnd,		M,	80,	60	
+		Mag_m82_10Rnd,			M,	500,	275
+		Mag_m82_10Rnd308,		M,	500,	275
+		Mag_CBJ_20Rnd,			M,	75,	50
+		Mag_CBJ_30Rnd,			M,	100,	70
+		Mag_CBJ_50Rnd,			M,	125,	100
+		Mag_Nailgun_50n,		M,	30,	10	
+		Mag_psg_5Rnd,			M,	65,	30
+		Mag_SR1M_18Rnd,			M,		150,	125
+		Mag_RPK_40Rnd,			M,		200,	125
+		Mag_Vityaz_30Rnd,		M,		200,	125
+		mag_svt_10rnd,			M,		200,	125
+		mag_kac_30rnd,			M,		125,	75
+		Mag_glock_18_17Rnd,		M,		100,	80
+		M_1911_7Rnd,			M,		100,	80
+		Mag_ace23_30rnd,		M,		175,	100
+		Mag_sg552_30Rnd,		M,		175,	100
+		Mag_pp19_30Rnd,			M,		80,	60
+		Mag_m9_15Rnd,			M,		100,	60
+		Mag_Scar_20rnd,			M,		175,	100
+		Mag_VAL_20Rnd,			M,		200,	125
+		mag_vss_10rnds,			M,		275,	200		
+		Mag_pp99_16Rnd,			M,		150,	90	
+		Mag_M14_10Rnd,			M,		175,		125
+		Mag_M14_20Rnd,			M,		225,		175
+		Mag_Mk22_14Rnd,			M,		75,		25
+		Mag_MP7_40Rnd,			M,		125,		75
+		Mag_SCAR_20Rnd,			M,		200,		125
+		Mag_APS_20Rnd,			M,		230,		175
+		Mag_AWMreal_5Rnd,		M,		500,		250
+		MSFC_DRUM762_Mag_75Rnd,		M,		500,		250
+       		MSFC_RPK74_Mag_45Rnd,		M,		500,		250	
+        	MSFC_STANAG556_Mag_30Rnd,	M,		500,		250
+        	MSFC_PMAG556_Mag_30Rnd,		M,		500,		250
+		MSFC_PMAG762_Mag_30Rnd,		M,		500,		250
+		MSFC_SCAR17_Mag_20Rnd,		M,		350,		125
+		MSFC_RPK_Mag_45Rnd,		M,		350,		125
+		Mag_VSSK_5Rnd			M,		700,		350
 
 	<Category> Handguards
-		MP5_PlasticHndgrd,	*,	100,	50
-		MP5_RailHndgrd,		*,	150,	75
-		AK_WoodHndgrd,		*,	200,	100
-		M4_PlasticHndgrd,	*,	150,	75
-		M4_RISHndgrd,		*,	200,	100
-		AK_Wood_insulating_Hndgrd,
-		AK_WoodSteel_Hndgrd,
-		M1A_RailAtt,
-		MSFC_AK_Zenitco_Handguard,	*,		500,		250
+		MP5_PlasticHndgrd,		*,	100,	50
+		MP5_RailHndgrd,			*,	150,	75
+		AK_WoodHndgrd,			*,	200,	100
+		M4_PlasticHndgrd,		*,	150,	75
+		M4_RISHndgrd,			*,	200,	100
+		AK_Wood_insulating_Hndgrd,	*,	200,	100
+		AK_WoodSteel_Hndgrd,		*,	200,	120	
+		M1A_RailAtt,			*,	250,	175
+		MSFC_AK_Zenitco_Handguard,	*,	500,	250
 
 	<Category> Buttstocks
 		MP5k_StockBttstck,	*,	100,	50
@@ -499,7 +468,7 @@
 		AK_FoldingBttstck,	*,	250,	125
 		M4_OEBttstck,		*,	150,	75
 		APS_Buttstock,		*,	75	45
-		MSFC_AK_Tactical_Buttstck,	*,		500,		250
+		MSFC_AK_Tactical_Buttstck,*,	500,	250
 
 	<Category> Optics
 		M4_CarryHandleOptic,	*,	150,	60
@@ -514,19 +483,19 @@
 		PSO1Optic,		*,	1100,	600
 		PSO11Optic,		*,	1400,	840
 		KazuarOptic,		*,	2200,	1400
-		FalconOptic,
-		PN23Optic,
-		SniperOptic,
+		FalconOptic,		*,	2400,	1600
+		PN23Optic,		*,	2700,	1900
+		SniperOptic,		*,	2600,	1800
 
 	<Category> Supressors
-		PistolSuppressor,	*,	150,	75
-		AK_Suppressor,		*,	250,	125
-		M4_Suppressor,		*,	250,	125
-		556_Suppressor
-		pbs1_Suppressor
-		Tundra_Suppressor
-		HX762_Suppressor
-		PBS4_Suppressor
+		PistolSuppressor,	*,	900,	500
+		AK_Suppressor,		*,	1500,	1000
+		M4_Suppressor,		*,	1700,	1200
+		556_Suppressor		*,	1700,	1200
+		pbs1_Suppressor		*,	1600,	1100
+		Tundra_Suppressor	*,	2250,	1600
+		HX762_Suppressor	*,	1500,	1000
+		PBS4_Suppressor		*,	1500,	1000
 
 	<Category> Compensators
 		Mosin_Compensator,	*,	150,	75
