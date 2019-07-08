@@ -355,6 +355,438 @@
 		AWMreal, 	W, 	
 
 	<Category> SQUAD MSF-C Weapons
+		MSFC_AK15M,	W,		4000,		2000
+		MSFC_AK12M,	W,		4000,		2000
+		MSFC_AK13M,	W,		4000,		2000
+		MSFC_RPK74,	W,		4000,		2000	
+		MSFC_TacAR15,	W,		4000,		2000
+		MSFC_AR15,	W,		4000,		2000		
+		MSFC_Mossberg590,	W,		4000,		2000
+		MSFC_BlackEagleII,	W,		4000,		2000
+		MSFC_M16A4,	W,		4000,		2000
+		MSFC_TacAR15_SBR,	W,		4000,		2000
+		MSFC_AS_VAL,	W,		4000,		2000
+		MSFC_AK_ALFA,	W,		4000,		2000
+		MSFC_HK416,	W,		4000,		2000
+		MSFC_AK15,	W,		4000,		2000
+		MSFC_AK103,	W,		4000,		2000
+		MSFC_SCAR17,	W,		4000,		2000
+		MSFC_RPK,	W,		4000,		2000
+		MSFC_AKM_Tan,	W,		3000,		1500
+		MSFC_AKM_Green,	W,		3000,		1500
+		MSFC_AKM_SURPAT_Tan,	W,		3000,		1500
+		MSFC_AKM_Black,	W,		3000,		1500
+		MSFC_AKM_White,	W,		3000,		1500
+		MSFC_AKM_Gray,	W,		3000,		1500
+		MSFC_AKM_Golden,	W,		3000,		1500
+		MSFC_AKM_ATACS_FG,	W,		3000,		1500
+		MSFC_AKM_HELL,	W,		3000,		1500
+		MSFC_M4A1_White,	W,		3000,		1500
+		MSFC_M4A1_ATACS_FG,	W,		3000,		1500
+		MSFC_M4A1_SURPAT_TAN,	W,		3000,		1500
+		MSFC_AKM_BLUE,	W,		3000,		1500
+		MSFC_AKM_EMR,	W,		3000,		1500
+		MSFC_AKM_Flecktarn,	W,		3000,		1500
+		MSFC_AKM_HEX,	W,		3000,		1500
+		MSFC_AKM_MARPAT_WD,	W,		3000,		1500
+		MSFC_AKM_Multicam,	W,		3000,		1500
+		MSFC_AKM_MulticamBlack,	W,		3000,		1500
+		MSFC_AKM_MulticamTropic,	W,		3000,		1500
+		MSFC_AKM_SNAKE,	W,		3000,		1500
+		MSFC_AKM_SNAKE_GREEN,	W,		3000,		1500
+		MSFC_AKM_SURPAT,	W,		3000,		1500
+		MSFC_AKM_ViperWestern,	W,		3000,		1500
+		MSFC_AKM_WOODLAND,	W,		3000,		1500
+		MSFC_M4A1_BLUE,	W,		3000,		1500
+		MSFC_M4A1_EMR,	W,		3000,		1500
+		MSFC_M4A1_Flecktarn,	W,		3000,		1500
+		MSFC_M4A1_HEX,	W,		3000,		1500
+		MSFC_M4A1_MARPAT_WD,	W,		3000,		1500
+		MSFC_M4A1_Multicam,	W,		3000,		1500
+		MSFC_M4A1_MulticamBlack,	W,		3000,		1500
+		MSFC_M4A1_MulticamTropic,	W,		3000,		1500
+		MSFC_M4A1_SNAKE,	W,		3000,		1500
+		MSFC_M4A1_SNAKE_GREEN,	W,		3000,		1500
+		MSFC_M4A1_SURPAT,	W,		3000,		1500
+		MSFC_M4A1_ViperWestern,	W,		3000,		1500
+		MSFC_M4A1_WOODLAND,	W,		3000,		1500
+		MSFC_AKM_ATACS_AU,	W,		3000,		1500
+		MSFC_M4A1_ATACS_AU,	W,		3000,		1500
+		MSFC_UMP_WHITE,	W,		3000,		1500
+		MSFC_UMP_ATACS_AU,	W,		3000,		1500
+		MSFC_UMP_ATACS_FG,	W,		3000,		1500
+		MSFC_UMP_BLUE,	W,		3000,		1500
+		MSFC_UMP_EMR,	W,		3000,		1500
+		MSFC_UMP_Flecktarn,	W,		3000,		1500
+		MSFC_UMP_HEX,	W,		3000,		1500
+		MSFC_UMP_MARPAT_WD,	W,		3000,		1500
+		MSFC_UMP_MULTICAM,	W,		3000,		1500
+		MSFC_UMP_MULTICAM_BLACK,	W,		3000,		1500
+		MSFC_UMP_MULTICAM_TROPIC,	W,		3000,		1500
+		MSFC_UMP_SNAKE,	W,		3000,		1500
+		MSFC_UMP_SNAKE_GREEN,	W,		3000,		1500
+		MSFC_UMP_SURPAT,	W,		3000,		1500
+		MSFC_UMP_VIPER_WESTERN,	W,		3000,		1500
+		MSFC_UMP_Woodland,	W,		3000,		1500
+		MSFC_UMP_SURPAT_TAN,	W,		3000,		1500
+		MSFC_AKM_ORANGE,	W,		3000,		1500
+		MSFC_AKM_RED,	W,		3000,		1500
+		MSFC_AKM_DARK,	W,		3000,		1500
+		MSFC_AKM_MATRIX,	W,		3000,		1500
+		MSFC_AKM_REDBLACKWHITE,	W,		3000,		1500
+		MSFC_AKM_Honeycomb,	W,		3000,		1500
+		MSFC_AKM_STAR,	W,		3000,		1500
+		MSFC_M4A1_ORANGE,	W,		3000,		1500
+		MSFC_M4A1_RED,	W,		3000,		1500
+		MSFC_M4A1_DARK,	W,		3000,		1500
+		MSFC_M4A1_MATRIX,	W,		3000,		1500
+		MSFC_M4A1_REDBLACKWHITE,	W,		3000,		1500
+		MSFC_M4A1_Honeycomb,	W,		3000,		1500
+		MSFC_M4A1_STAR,	W,		3000,		1500
+		MSFC_UMP_ORANGE,	W,		3000,		1500
+		MSFC_UMP_RED,	W,		3000,		1500
+		MSFC_UMP_DARK,	W,		3000,		1500
+		MSFC_UMP_MATRIX,	W,		3000,		1500
+		MSFC_UMP_REDBLACKWHITE,	W,		3000,		1500
+		MSFC_UMP_Honeycomb,	W,		3000,		1500
+		MSFC_UMP_STAR,	W,		3000,		1500
+		MSFC_MP5K_WHITE,	W,		3000,		1500
+		MSFC_MP5K_ATACS_AU,	W,		3000,		1500
+		MSFC_MP5K_ATACS_FG,	W,		3000,		1500
+		MSFC_MP5K_BLUE,	W,		3000,		1500
+		MSFC_MP5K_EMR,	W,		3000,		1500
+		MSFC_MP5K_Flecktarn,	W,		3000,		1500
+		MSFC_MP5K_HEX,	W,		3000,		1500
+		MSFC_MP5K_MARPAT_WD,	W,		3000,		1500
+		MSFC_MP5K_MULTICAM
+		MSFC_MP5K_MULTICAM_BLACK,	W,		3000,		1500
+		MSFC_MP5K_MULTICAM_TROPIC,	W,		3000,		1500
+		MSFC_MP5K_SNAKE,	W,		3000,		1500
+		MSFC_MP5K_SNAKE_GREEN,	W,		3000,		1500
+		MSFC_MP5K_SURPAT,	W,		3000,		1500
+		MSFC_MP5K_VIPER_WESTERN,	W,		3000,		1500
+		MSFC_MP5K_Woodland,	W,		3000,		1500
+		MSFC_MP5K_SURPAT_TAN,	W,		3000,		1500
+		MSFC_MP5K_ORANGE,	W,		3000,		1500
+		MSFC_MP5K_RED,	W,		3000,		1500
+		MSFC_MP5K_DARK,	W,		3000,		1500
+		MSFC_MP5K_MATRIX,	W,		3000,		1500
+		MSFC_MP5K_REDBLACKWHITE,	W,		3000,		1500
+		MSFC_MP5K_Honeycomb,	W,		3000,		1500
+		MSFC_MP5K_STAR,	W,		3000,		1500
+		//MSFC_AKS74U_WHITE,	W,		3000,		1500
+		//MSFC_AKS74U_ATACS_AU,	W,		3000,		1500
+		//MSFC_AKS74U_ATACS_FG,	W,		3000,		1500
+		//MSFC_AKS74U_BLUE,	W,		3000,		1500
+		//MSFC_AKS74U_EMR,	W,		3000,		1500
+		//MSFC_AKS74U_Flecktarn,	W,		3000,		1500
+		//MSFC_AKS74U_HEX,	W,		3000,		1500
+		//MSFC_AKS74U_MARPAT_WD,	W,		3000,		1500
+		//MSFC_AKS74U_MULTICAM,	W,		3000,		1500
+		//MSFC_AKS74U_MULTICAM_BLACK,	W,		3000,		1500
+		//MSFC_AKS74U_MULTICAM_TROPIC,	W,		3000,		1500
+		//MSFC_AKS74U_SNAKE,	W,		3000,		1500
+		//MSFC_AKS74U_SNAKE_GREEN,	W,		3000,		1500
+		//MSFC_AKS74U_SURPAT,	W,		3000,		1500
+		//MSFC_AKS74U_VIPER_WESTERN,	W,		3000,		1500
+		//MSFC_AKS74U_Woodland,	W,		3000,		1500
+		//MSFC_AKS74U_SURPAT_TAN,	W,		3000,		1500
+		//MSFC_AKS74U_ORANGE,	W,		3000,		1500
+		//MSFC_AKS74U_RED,	W,		3000,		1500
+		//MSFC_AKS74U_DARK,	W,		3000,		1500
+		//MSFC_AKS74U_MATRIX,	W,		3000,		1500
+		//MSFC_AKS74U_REDBLACKWHITE,	W,		3000,		1500
+		//MSFC_AKS74U_Honeycomb,	W,		3000,		1500
+		//MSFC_AKS74U_STAR,	W,		3000,		1500
+		//MSFC_AK74_WHITE,	W,		3000,		1500
+		//MSFC_AK74_ATACS_AU,	W,		3000,		1500
+		//MSFC_AK74_ATACS_FG,	W,		3000,		1500
+		//MSFC_AK74_BLUE,	W,		3000,		1500
+		//MSFC_AK74_EMR,	W,		3000,		1500
+		//MSFC_AK74_Flecktarn,	W,		3000,		1500
+		//MSFC_AK74_HEX,	W,		3000,		1500
+		//MSFC_AK74_MARPAT_WD,	W,		3000,		1500
+		//MSFC_AK74_MULTICAM,	W,		3000,		1500
+		//MSFC_AK74_MULTICAM_BLACK,	W,		3000,		1500
+		//MSFC_AK74_MULTICAM_TROPIC,	W,		3000,		1500
+		//MSFC_AK74_SNAKE,	W,		3000,		1500
+		//MSFC_AK74_SNAKE_GREEN,	W,		3000,		1500
+		//MSFC_AK74_SURPAT,	W,		3000,		1500
+		//MSFC_AK74_VIPER_WESTERN,	W,		3000,		1500
+		//MSFC_AK74_Woodland,	W,		3000,		1500
+		//MSFC_AK74_SURPAT_TAN,	W,		3000,		1500
+		//MSFC_AK74_ORANGE,	W,		3000,		1500
+		//MSFC_AK74_RED,	W,		3000,		1500
+		//MSFC_AK74_DARK,	W,		3000,		1500
+		//MSFC_AK74_MATRIX,	W,		3000,		1500
+		//MSFC_AK74_REDBLACKWHITE,	W,		3000,		1500
+		//MSFC_AK74_Honeycomb,	W,		3000,		1500
+		//MSFC_AK74_STAR,	W,		3000,		1500
+		//MSFC_AK101_WHITE,	W,		3000,		1500
+		//MSFC_AK101_ATACS_AU,	W,		3000,		1500
+		//MSFC_AK101_ATACS_FG,	W,		3000,		1500
+		//MSFC_AK101_BLUE,	W,		3000,		1500
+		//MSFC_AK101_EMR,	W,		3000,		1500
+		//MSFC_AK101_Flecktarn,	W,		3000,		1500
+		//MSFC_AK101_HEX,	W,		3000,		1500
+		//MSFC_AK101_MARPAT_WD,	W,		3000,		1500
+		//MSFC_AK101_MULTICAM,	W,		3000,		1500
+		//MSFC_AK101_MULTICAM_BLACK,	W,		3000,		1500
+		//MSFC_AK101_MULTICAM_TROPIC,	W,		3000,		1500
+		//MSFC_AK101_SNAKE,	W,		3000,		1500
+		//MSFC_AK101_SNAKE_GREEN,	W,		3000,		1500
+		//MSFC_AK101_SURPAT,	W,		3000,		1500
+		//MSFC_AK101_VIPER_WESTERN,	W,		3000,		1500
+		//MSFC_AK101_Woodland,	W,		3000,		1500
+		//MSFC_AK101_SURPAT_TAN,	W,		3000,		1500
+		//MSFC_AK101_ORANGE,	W,		3000,		1500
+		//MSFC_AK101_RED,	W,		3000,		1500
+		//MSFC_AK101_DARK,	W,		3000,		1500
+		//MSFC_AK101_MATRIX,	W,		3000,		1500
+		//MSFC_AK101_REDBLACKWHITE,	W,		3000,		1500
+		//MSFC_AK101_Honeycomb,	W,		3000,		1500
+		//MSFC_AK101_STAR,	W,		3000,		1500
+		MSFC_SKS_WHITE,	W,		3000,		1500
+		MSFC_SKS_ATACS_AU,	W,		3000,		1500
+		MSFC_SKS_ATACS_FG,	W,		3000,		1500
+		MSFC_SKS_BLUE,	W,		3000,		1500
+		MSFC_SKS_EMR,	W,		3000,		1500
+		MSFC_SKS_Flecktarn,	W,		3000,		1500
+		MSFC_SKS_HEX,	W,		3000,		1500
+		MSFC_SKS_MARPAT_WD,	W,		3000,		1500
+		MSFC_SKS_MULTICAM,	W,		3000,		1500
+		MSFC_SKS_MULTICAM_BLACK,	W,		3000,		1500
+		MSFC_SKS_MULTICAM_TROPIC,	W,		3000,		1500
+		MSFC_SKS_SNAKE,	W,		3000,		1500
+		MSFC_SKS_SNAKE_GREEN,	W,		3000,		1500
+		MSFC_SKS_SURPAT,	W,		3000,		1500
+		MSFC_SKS_VIPER_WESTERN,	W,		3000,		1500
+		MSFC_SKS_Woodland,	W,		3000,		1500
+		MSFC_SKS_SURPAT_TAN,	W,		3000,		1500
+		MSFC_SKS_ORANGE,	W,		3000,		1500
+		MSFC_SKS_RED,	W,		3000,		1500
+		MSFC_SKS_DARK,	W,		3000,		1500
+		MSFC_SKS_MATRIX,	W,		3000,		1500
+		MSFC_SKS_REDBLACKWHITE,	W,		3000,		1500
+		MSFC_SKS_Honeycomb,	W,		3000,		1500
+		MSFC_SKS_STAR,	W,		3000,		1500
+		MSFC_Mosin9130_WHITE,	W,		3000,		1500
+		MSFC_Mosin9130_ATACS_AU,	W,		3000,		1500
+		MSFC_Mosin9130_ATACS_FG,	W,		3000,		1500
+		MSFC_Mosin9130_BLUE,	W,		3000,		1500
+		MSFC_Mosin9130_EMR,	W,		3000,		1500
+		MSFC_Mosin9130_Flecktarn,	W,		3000,		1500
+		MSFC_Mosin9130_HEX,	W,		3000,		1500
+		MSFC_Mosin9130_MARPAT_WD,	W,		3000,		1500
+		MSFC_Mosin9130_MULTICAM,	W,		3000,		1500
+		MSFC_Mosin9130_MULTICAM_BLACK,	W,		3000,		1500
+		MSFC_Mosin9130_MULTICAM_TROPIC,	W,		3000,		1500
+		MSFC_Mosin9130_SNAKE,	W,		3000,		1500
+		MSFC_Mosin9130_SNAKE_GREEN,	W,		3000,		1500
+		MSFC_Mosin9130_SURPAT,	W,		3000,		1500
+		MSFC_Mosin9130_VIPER_WESTERN,	W,		3000,		1500
+		MSFC_Mosin9130_Woodland,	W,		3000,		1500
+		MSFC_Mosin9130_SURPAT_TAN,	W,		3000,		1500
+		MSFC_Mosin9130_ORANGE,	W,		3000,		1500
+		MSFC_Mosin9130_RED,	W,		3000,		1500
+		MSFC_Mosin9130_DARK,	W,		3000,		1500
+		MSFC_Mosin9130_MATRIX,	W,		3000,		1500
+		MSFC_Mosin9130_REDBLACKWHITE,	W,		3000,		1500
+		MSFC_Mosin9130_Honeycomb,	W,		3000,		1500
+		MSFC_Mosin9130_STAR,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_WHITE,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_ATACS_AU,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_ATACS_FG,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_BLUE,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_EMR,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_Flecktarn,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_HEX,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_MARPAT_WD,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_MULTICAM,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_MULTICAM_BLACK,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_MULTICAM_TROPIC,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_SNAKE,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_SNAKE_GREEN,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_SURPAT,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_VIPER_WESTERN,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_Woodland,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_SURPAT_TAN,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_ORANGE,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_RED,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_DARK,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_MATRIX,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_REDBLACKWHITE,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_Honeycomb,	W,		3000,		1500
+		MSFC_SawedoffMosin9130_STAR,	W,		3000,		1500
+		MSFC_SVD_WHITE,	W,		3000,		1500
+		MSFC_SVD_ATACS_AU,	W,		3000,		1500
+		MSFC_SVD_ATACS_FG,	W,		3000,		1500
+		MSFC_SVD_BLUE,	W,		3000,		1500
+		MSFC_SVD_EMR,	W,		3000,		1500
+		MSFC_SVD_Flecktarn,	W,		3000,		1500
+		MSFC_SVD_HEX,	W,		3000,		1500
+		MSFC_SVD_MARPAT_WD,	W,		3000,		1500
+		MSFC_SVD_MULTICAM,	W,		3000,		1500
+		MSFC_SVD_MULTICAM_BLACK,	W,		3000,		1500
+		MSFC_SVD_MULTICAM_TROPIC,	W,		3000,		1500
+		MSFC_SVD_SNAKE,	W,		3000,		1500
+		MSFC_SVD_SNAKE_GREEN,	W,		3000,		1500
+		MSFC_SVD_SURPAT,	W,		3000,		1500
+		MSFC_SVD_VIPER_WESTERN,	W,		3000,		1500
+		MSFC_SVD_Woodland,	W,		3000,		1500
+		MSFC_SVD_SURPAT_TAN,	W,		3000,		1500
+		MSFC_SVD_ORANGE,	W,		3000,		1500
+		MSFC_SVD_RED,	W,		3000,		1500
+		MSFC_SVD_DARK,	W,		3000,		1500
+		MSFC_SVD_MATRIX,	W,		3000,		1500
+		MSFC_SVD_REDBLACKWHITE,	W,		3000,		1500
+		MSFC_SVD_Honeycomb,	W,		3000,		1500
+		MSFC_SVD_STAR,	W,		3000,		1500
+		//MSFC_SCOUT_WHITE,	W,		3000,		1500
+		//MSFC_SCOUT_ATACS_AU,	W,		3000,		1500
+		//MSFC_SCOUT_ATACS_FG,	W,		3000,		1500
+		//MSFC_SCOUT_BLUE,	W,		3000,		1500
+		//MSFC_SCOUT_EMR,	W,		3000,		1500
+		//MSFC_SCOUT_Flecktarn,	W,		3000,		1500
+		//MSFC_SCOUT_HEX,	W,		3000,		1500
+		//MSFC_SCOUT_MARPAT_WD,	W,		3000,		1500
+		//MSFC_SCOUT_MULTICAM,	W,		3000,		1500
+		//MSFC_SCOUT_MULTICAM_BLACK,	W,		3000,		1500
+		//MSFC_SCOUT_MULTICAM_TROPIC,	W,		3000,		1500
+		//MSFC_SCOUT_SNAKE,	W,		3000,		1500
+		//MSFC_SCOUT_SNAKE_GREEN,	W,		3000,		1500
+		//MSFC_SCOUT_SURPAT,	W,		3000,		1500
+		//MSFC_SCOUT_VIPER_WESTERN,	W,		3000,		1500
+		//MSFC_SCOUT_Woodland,	W,		3000,		1500
+		//MSFC_SCOUT_SURPAT_TAN,	W,		3000,		1500
+		//MSFC_SCOUT_ORANGE,	W,		3000,		1500
+		//MSFC_SCOUT_RED,	W,		3000,		1500
+		//MSFC_SCOUT_DARK,	W,		3000,		1500
+		//MSFC_SCOUT_MATRIX,	W,		3000,		1500
+		//MSFC_SCOUT_REDBLACKWHITE,	W,		3000,		1500
+		//MSFC_SCOUT_Honeycomb,	W,		3000,		1500
+		//MSFC_SCOUT_STAR,	W,		3000,		1500
+		MSFC_Winchester70_WHITE,	W,		3000,		1500
+		MSFC_Winchester70_ATACS_AU,	W,		3000,		1500
+		MSFC_Winchester70_ATACS_FG,	W,		3000,		1500
+		MSFC_Winchester70_BLUE,	W,		3000,		1500
+		MSFC_Winchester70_EMR,	W,		3000,		1500
+		MSFC_Winchester70_Flecktarn,	W,		3000,		1500
+		MSFC_Winchester70_HEX,	W,		3000,		1500
+		MSFC_Winchester70_MARPAT_WD,	W,		3000,		1500
+		MSFC_Winchester70_MULTICAM,	W,		3000,		1500
+		MSFC_Winchester70_MULTICAM_BLACK,	W,		3000,		1500
+		MSFC_Winchester70_MULTICAM_TROPIC,	W,		3000,		1500
+		MSFC_Winchester70_SNAKE,	W,		3000,		1500
+		MSFC_Winchester70_SNAKE_GREEN,	W,		3000,		1500
+		MSFC_Winchester70_SURPAT,	W,		3000,		1500
+		MSFC_Winchester70_VIPER_WESTERN,	W,		3000,		1500
+		MSFC_Winchester70_Woodland,	W,		3000,		1500
+		MSFC_Winchester70_SURPAT_TAN,	W,		3000,		1500
+		MSFC_Winchester70_ORANGE,	W,		3000,		1500
+		MSFC_Winchester70_RED,	W,		3000,		1500
+		MSFC_Winchester70_DARK,	W,		3000,		1500
+		MSFC_Winchester70_MATRIX,	W,		3000,		1500
+		MSFC_Winchester70_REDBLACKWHITE,	W,		3000,		1500
+		MSFC_Winchester70_Honeycomb,	W,		3000,		1500
+		MSFC_Winchester70_STAR,	W,		3000,		1500
+		MSFC_CZ527_WHITE,	W,		3000,		1500
+		MSFC_CZ527_ATACS_AU,	W,		3000,		1500
+		MSFC_CZ527_ATACS_FG,	W,		3000,		1500
+		MSFC_CZ527_BLUE,	W,		3000,		1500
+		MSFC_CZ527_EMR,	W,		3000,		1500
+		MSFC_CZ527_Flecktarn,	W,		3000,		1500
+		MSFC_CZ527_HEX,	W,		3000,		1500
+		MSFC_CZ527_MARPAT_WD,	W,		3000,		1500
+		MSFC_CZ527_MULTICAM,	W,		3000,		1500
+		MSFC_CZ527_MULTICAM_BLACK,	W,		3000,		1500
+		MSFC_CZ527_MULTICAM_TROPIC,	W,		3000,		1500
+		MSFC_CZ527_SNAKE,	W,		3000,		1500
+		MSFC_CZ527_SNAKE_GREEN,	W,		3000,		1500
+		MSFC_CZ527_SURPAT,	W,		3000,		1500
+		MSFC_CZ527_VIPER_WESTERN,	W,		3000,		1500
+		MSFC_CZ527_Woodland,	W,		3000,		1500
+		MSFC_CZ527_SURPAT_TAN,	W,		3000,		1500
+		MSFC_CZ527_ORANGE,	W,		3000,		1500
+		MSFC_CZ527_RED,	W,		3000,		1500
+		MSFC_CZ527_DARK,	W,		3000,		1500
+		MSFC_CZ527_MATRIX,	W,		3000,		1500
+		MSFC_CZ527_REDBLACKWHITE,	W,		3000,		1500
+		MSFC_CZ527_Honeycomb,	W,		3000,		1500
+		MSFC_CZ527_STAR,	W,		3000,		1500
+		MSFC_SVD_Wooden,	W,		3000,		1500
+        	MSFC_AKM_Kryptek_Banshee,	W,		3000,		1500
+        	MSFC_SVD_Kryptek_Banshee,	W,		3000,		1500
+        	MSFC_UMP_Kryptek_Banshee,	W,		3000,		1500
+        	MSFC_M4A1_Kryptek_Banshee,	W,		3000,		1500
+        	MSFC_AKM_Kryptek_Neptune,	W,		3000,		1500
+        	MSFC_SVD_Kryptek_Neptune,	W,		3000,		1500
+        	MSFC_UMP_Kryptek_Neptune,	W,		3000,		1500
+        	MSFC_M4A1_Kryptek_Neptune,	W,		3000,		1500
+        	MSFC_AKM_Kryptek_Typhon,	W,		3000,		1500
+        	MSFC_SVD_Kryptek_Typhon,	W,		3000,		1500
+        	MSFC_UMP_Kryptek_Typhon,	W,		3000,		1500
+        	MSFC_M4A1_Kryptek_Typhon,	W,		3000,		1500
+        	MSFC_AKM_Kryptek_Mandrake,	W,		3000,		1500
+        	MSFC_SVD_Kryptek_Mandrake,	W,		3000,		1500
+        	MSFC_UMP_Kryptek_Mandrake,	W,		3000,		1500
+        	MSFC_M4A1_Kryptek_Mandrake,	W,		3000,		1500
+        	MSFC_AKM_Kryptek_Wraith,	W,		3000,		1500
+        	MSFC_SVD_Kryptek_Wraith,	W,		3000,		1500
+        	MSFC_UMP_Kryptek_Wraith,	W,		3000,		1500
+        	MSFC_M4A1_Kryptek_Wraith,	W,		3000,		1500
+        	MSFC_AKM_Kryptek_Raid,	W,		3000,		1500
+        	MSFC_SVD_Kryptek_Raid,	W,		3000,		1500
+        	MSFC_UMP_Kryptek_Raid,	W,		3000,		1500
+        	MSFC_M4A1_Kryptek_Raid,	W,		3000,		1500
+        	MSFC_AK74_WHITE,	W,		3000,		1500
+        	MSFC_AK74_ATACS_AU,	W,		3000,		1500
+        	MSFC_AK74_ATACS_FG,	W,		3000,		1500
+        	MSFC_AK74_BLUE,	W,		3000,		1500
+		MSFC_AK74_EMR,	W,		3000,		1500
+        	MSFC_AK74_Flecktarn,	W,		3000,		1500
+        	MSFC_AK74_HEX,	W,		3000,		1500
+        	MSFC_AK74_MARPAT_WD,	W,		3000,		1500
+        	MSFC_AK74_MULTICAM,	W,		3000,		1500
+        	MSFC_AK74_MULTICAM_BLACK,	W,		3000,		1500
+        	MSFC_AK74_MULTICAM_TROPIC,	W,		3000,		1500
+        	MSFC_AK74_SNAKE,	W,		3000,		1500
+        	MSFC_AK74_SNAKE_GREEN,	W,		3000,		1500
+        	MSFC_AK74_SURPAT,	W,		3000,		1500
+        	MSFC_AK74_VIPER_WESTERN,	W,		3000,		1500
+        	MSFC_AK74_Woodland,	W,		3000,		1500
+        	MSFC_AK74_SURPAT_TAN,	W,		3000,		1500
+        	MSFC_AK74_ORANGE,	W,		3000,		1500
+        	MSFC_AK74_RED,	W,		3000,		1500
+        	MSFC_AK74_DARK,	W,		3000,		1500
+        	MSFC_AK74_MATRIX,	W,		3000,		1500
+        	MSFC_AK74_REDBLACKWHITE,	W,		3000,		1500
+        	MSFC_AK74_Honeycomb,	W,		3000,		1500
+        	MSFC_AK74_STAR,	W,		3000,		1500
+        	MSFC_AK101_WHITE,	W,		3000,		1500
+        	MSFC_AK101_ATACS_AU,	W,		3000,		1500
+        	MSFC_AK101_ATACS_FG,	W,		3000,		1500
+        	MSFC_AK101_BLUE,	W,		3000,		1500
+        	MSFC_AK101_EMR,	W,		3000,		1500
+        	MSFC_AK101_Flecktarn,	W,		3000,		1500
+        	MSFC_AK101_HEX,	W,		3000,		1500
+        	MSFC_AK101_MARPAT_WD,	W,		3000,		1500
+        	MSFC_AK101_MULTICAM,	W,		3000,		1500
+        	MSFC_AK101_MULTICAM_BLACK,	W,		3000,		1500
+        	MSFC_AK101_MULTICAM_TROPIC,	W,		3000,		1500
+        	MSFC_AK101_SNAKE,	W,		3000,		1500
+        	MSFC_AK101_SNAKE_GREEN,	W,		3000,		1500
+        	MSFC_AK101_SURPAT,	W,		3000,		1500
+        	MSFC_AK101_VIPER_WESTERN,	W,		3000,		1500
+        	MSFC_AK101_Woodland,	W,		3000,		1500
+        	MSFC_AK101_SURPAT_TAN,	W,		3000,		1500
+        	MSFC_AK101_ORANGE,	W,		3000,		1500
+        	MSFC_AK101_RED,	W,		3000,		1500
+        	MSFC_AK101_DARK,	W,		3000,		1500
+        	MSFC_AK101_MATRIX,	W,		3000,		1500
+        	MSFC_AK101_REDBLACKWHITE,	W,		3000,		1500
+        	MSFC_AK101_Honeycomb,	W,		3000,		1500
+        	MSFC_AK101_STAR,	W,		3000,		1500
 
 
 <Trader> Weapon Supplies
@@ -444,55 +876,55 @@
 		Mag_STANAG_30Rnd,	M,	220,	110
 		Mag_VSS_10Rnd,		M,	220,	110
 		Mag_SVD_10Rnd,		M,	250,	125
-		Mag_M1_15Rnds
-		Mag_rpk_40Rnd_Tracers
-		Mag_rpk_40RndSpar_Tracer
-		Mag_val_20Rnd_coupled_Tracer
-		Mag_tokarev_8Rnd
-		Mag_CS5_10rnd
-		Mag_FP4_AK101_30Rnd 
-		Mag_MakarovPB_8Rnd
-		Mag_VSK94_20Rnd
-		Mag_DDM_30Rnd
-		Mag_rpk_40RndSpar
-		Mag_val_20Rnd_coupled
-		Mag_vss_10Rnds_coupled
-		Mag_GSH18_18Rnd
-		Mag_m1935_13Rnd
-		Mag_sg550_30Rnd
-		mag_p220_8rnd
-		Mag_SR2_30Rnd
-		Mag_AK74UM_30Rnd
-		Mag_mac10_30Rnd
-		Mag_m82_10Rnd -(.50сal)
-		Mag_m82_10Rnd308
-		Mag_CBJ_20Rnd
-		Mag_CBJ_30Rnd
-		Mag_CBJ_50Rnd
-		Mag_Nailgun_50n
-		Mag_psg_5Rnd
-		Mag_SR1M_18Rnd
-		Mag_RPK_40Rnd
-		Mag_Vityaz_30Rnd
-		mag_svt_10rnd
-		mag_kac_30rnd
-		Mag_glock_18_17Rnd
-		M_1911_7Rnd			
-		Mag_ace23_30rnd
-		Mag_sg552_30Rnd
-		Mag_pp19_30Rnd
-		Mag_m9_15Rnd
-		Mag_Scar_20rnd
-		Mag_VAL_20Rnd
-		mag_vss_10rnds
-		Mag_pp99_16Rnd
-		Mag_M14_10Rnd
-		Mag_M14_20Rnd
-		Mag_Mk22_14Rnd
-		Mag_MP7_40Rnd
-		Mag_SCAR_20Rnd
-		Mag_APS_20Rnd
-		Mag_AWMreal_5Rnd
+		Mag_M1_15Rnds,
+		Mag_rpk_40Rnd_Tracers,
+		Mag_rpk_40RndSpar_Tracer,
+		Mag_val_20Rnd_coupled_Tracer,
+		Mag_tokarev_8Rnd,
+		Mag_CS5_10rnd,
+		Mag_FP4_AK101_30Rnd,
+		Mag_MakarovPB_8Rnd,
+		Mag_VSK94_20Rnd,
+		Mag_DDM_30Rnd,
+		Mag_rpk_40RndSpar,
+		Mag_val_20Rnd_coupled,
+		Mag_vss_10Rnds_coupled,
+		Mag_GSH18_18Rnd,
+		Mag_m1935_13Rnd,
+		Mag_sg550_30Rnd,
+		mag_p220_8rnd,
+		Mag_SR2_30Rnd,
+		Mag_AK74UM_30Rnd,
+		Mag_mac10_30Rnd,
+		Mag_m82_10Rnd,
+		Mag_m82_10Rnd308,
+		Mag_CBJ_20Rnd,
+		Mag_CBJ_30Rnd,
+		Mag_CBJ_50Rnd,
+		Mag_Nailgun_50n,
+		Mag_psg_5Rnd,
+		Mag_SR1M_18Rnd,
+		Mag_RPK_40Rnd,
+		Mag_Vityaz_30Rnd,
+		mag_svt_10rnd,
+		mag_kac_30rnd,
+		Mag_glock_18_17Rnd,
+		M_1911_7Rnd,		
+		Mag_ace23_30rnd,
+		Mag_sg552_30Rnd,
+		Mag_pp19_30Rnd,
+		Mag_m9_15Rnd,
+		Mag_Scar_20rnd,
+		Mag_VAL_20Rnd,
+		mag_vss_10rnds,
+		Mag_pp99_16Rnd,
+		Mag_M14_10Rnd,
+		Mag_M14_20Rnd,
+		Mag_Mk22_14Rnd,
+		Mag_MP7_40Rnd,
+		Mag_SCAR_20Rnd,
+		Mag_APS_20Rnd,
+		Mag_AWMreal_5Rnd,
 
 	<Category> Handguards
 		MP5_PlasticHndgrd,	*,	100,	50
@@ -553,6 +985,283 @@
 
 	<Category> Flashlights
 		Universallight,		*,	120,	60
+		
+	<Category> SQUAD MSF-C Weapon Attachments
+       		 MSFC_DRUM762_Mag_75Rnd,	*,		500,		250
+       		 MSFC_RPK74_Mag_45Rnd,	*,		500,		250	
+        	MSFC_STANAG556_Mag_30Rnd,	*,		500,		250
+        	MSFC_PMAG556_Mag_30Rnd,	*,		500,		250
+		MSFC_PMAG762_Mag_30Rnd,	*,		500,		250
+		MSFC_SCAR17_Mag_20Rnd,	*,		350,		125
+		MSFC_RPK_Mag_45Rnd,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_WHITE,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_ATACS_AU,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_ATACS_FG,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_BLUE,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_EMR,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_Flecktarn,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_HEX,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_MARPAT_WD,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_MULTICAM,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_MULTICAM_BLACK,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_MULTICAM_TROPIC,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_SNAKE,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_SNAKE_GREEN,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_SURPAT,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_VIPER_WESTERN,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_Woodland,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_SURPAT_TAN,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_ORANGE,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_RED,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_DARK,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_MATRIX,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_REDBLACKWHITE,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_Honeycomb,	*,		350,		125
+		MSFC_Mag_AKM_Palm30Rnd_STAR,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_WHITE,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_ATACS_AU,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_ATACS_FG,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_BLUE,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_EMR,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_Flecktarn,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_HEX,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_MARPAT_WD,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_MULTICAM,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_MULTICAM_BLACK,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_MULTICAM_TROPIC,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_SNAKE,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_SNAKE_GREEN,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_SURPAT,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_VIPER_WESTERN,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_Woodland,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_SURPAT_TAN,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_ORANGE,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_RED,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_DARK,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_MATRIX,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_REDBLACKWHITE,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_Honeycomb,	*,		350,		125
+		MSFC_Mag_AK74_30Rnd_STAR,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_WHITE,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_ATACS_AU,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_ATACS_FG,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_BLUE,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_EMR,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_Flecktarn,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_HEX,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_MARPAT_WD,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_MULTICAM,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_MULTICAM_BLACK,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_MULTICAM_TROPIC,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_SNAKE,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_SNAKE_GREEN,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_SURPAT,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_VIPER_WESTERN,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_Woodland,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_SURPAT_TAN,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_ORANGE,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_RED,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_DARK,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_MATRIX,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_REDBLACKWHITE,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_Honeycomb,	*,		350,		125
+		MSFC_Mag_AK101_30Rnd_STAR,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_WHITE,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_ATACS_AU,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_ATACS_FG,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_BLUE,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_EMR,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_Flecktarn,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_HEX,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_MARPAT_WD,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_MULTICAM,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_MULTICAM_BLACK,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_MULTICAM_TROPIC,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_SNAKE,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_SNAKE_GREEN,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_SURPAT,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_VIPER_WESTERN,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_Woodland,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_SURPAT_TAN,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_ORANGE,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_RED,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_DARK,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_MATRIX,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_REDBLACKWHITE,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_Honeycomb,	*,		350,		125
+		MSFC_Mag_AKM_Drum75Rnd_STAR,	*,		350,		125
+		
+	<Category> MSFC Attachment TEST
+		MSFC_AK_Zenitco_Handguard,	*,		500,		250
+        	MSFC_AK_Tactical_Buttstck,	*,		500,		250
+		MSFC_AK_PlasticButtstock_WHITE,	*,		500,		250
+		MSFC_AK_PlasticButtstock_ATACS_AU,	*,		500,		250
+		MSFC_AK_PlasticButtstock_ATACS_FG,	*,		500,		250
+		MSFC_AK_PlasticButtstock_BLUE,	*,		500,		250
+		MSFC_AK_PlasticButtstock_EMR,	*,		500,		250
+		MSFC_AK_PlasticButtstock_Flecktarn,	*,		500,		250
+		MSFC_AK_PlasticButtstock_HEX,	*,		500,		250
+		MSFC_AK_PlasticButtstock_MARPAT_WD,	*,		500,		250
+		MSFC_AK_PlasticButtstock_MULTICAM,	*,		500,		250
+		MSFC_AK_PlasticButtstock_MULTICAM_BLACK,	*,		500,		250
+		MSFC_AK_PlasticButtstock_MULTICAM_TROPIC,	*,		500,		250
+		MSFC_AK_PlasticButtstock_SNAKE,	*,		500,		250
+		MSFC_AK_PlasticButtstock_SNAKE_GREEN,	*,		500,		250
+		MSFC_AK_PlasticButtstock_SURPAT,	*,		500,		250
+		MSFC_AK_PlasticButtstock_VIPER_WESTERN,	*,		500,		250
+		MSFC_AK_PlasticButtstock_Woodland,	*,		500,		250
+		MSFC_AK_PlasticButtstock_SURPAT_TAN,	*,		500,		250
+		MSFC_AK_PlasticButtstock_ORANGE,	*,		500,		250
+		MSFC_AK_PlasticButtstock_RED,	*,		500,		250
+		MSFC_AK_PlasticButtstock_DARK,	*,		500,		250
+		MSFC_AK_PlasticButtstock_MATRIX,	*,		500,		250
+		MSFC_AK_PlasticButtstock_REDBLACKWHITE,	*,		500,		250
+		MSFC_AK_PlasticButtstock_Honeycomb,	*,		500,		250
+		MSFC_AK_PlasticButtstock_STAR,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_WHITE,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_ATACS_AU,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_ATACS_FG,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_BLUE,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_EMR,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_Flecktarn,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_HEX,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_MARPAT_WD,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_MULTICAM,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_MULTICAM_BLACK,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_MULTICAM_TROPIC,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_SNAKE,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_SNAKE_GREEN,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_SURPAT,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_VIPER_WESTERN,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_Woodland,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_SURPAT_TAN,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_ORANGE,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_RED,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_DARK,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_MATRIX,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_REDBLACKWHITE,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_Honeycomb,	*,		500,		250
+		MSFC_AK_PlasticHndgrd_STAR,	*,		500,		250
+		MSFC_AK_RailHndgrd_WHITE,	*,		500,		250
+		MSFC_AK_RailHndgrd_ATACS_AU,	*,		500,		250
+		MSFC_AK_RailHndgrd_ATACS_FG,	*,		500,		250
+		MSFC_AK_RailHndgrd_BLUE,	*,		500,		250
+		MSFC_AK_RailHndgrd_EMR,	*,		500,		250
+		MSFC_AK_RailHndgrd_Flecktarn,	*,		500,		250
+		MSFC_AK_RailHndgrd_HEX,	*,		500,		250
+		MSFC_AK_RailHndgrd_MARPAT_WD,	*,		500,		250
+		MSFC_AK_RailHndgrd_MULTICAM,	*,		500,		250
+		MSFC_AK_RailHndgrd_MULTICAM_BLACK,	*,		500,		250
+		MSFC_AK_RailHndgrd_MULTICAM_TROPIC,	*,		500,		250
+		MSFC_AK_RailHndgrd_SNAKE,	*,		500,		250
+		MSFC_AK_RailHndgrd_SNAKE_GREEN,	*,		500,		250
+		MSFC_AK_RailHndgrd_SURPAT,	*,		500,		250
+		MSFC_AK_RailHndgrd_VIPER_WESTERN,	*,		500,		250
+		MSFC_AK_RailHndgrd_Woodland,	*,		500,		250
+		MSFC_AK_RailHndgrd_SURPAT_TAN,	*,		500,		250
+		MSFC_AK_RailHndgrd_ORANGE,	*,		500,		250
+		MSFC_AK_RailHndgrd_RED,	*,		500,		250
+		MSFC_AK_RailHndgrd_DARK,	*,		500,		250
+		MSFC_AK_RailHndgrd_MATRIX,	*,		500,		250
+		MSFC_AK_RailHndgrd_REDBLACKWHITE,	*,		500,		250
+		MSFC_AK_RailHndgrd_Honeycomb,	*,		500,		250
+		MSFC_AK_RailHndgrd_STAR,	*,		500,		250
+		MSFC_M4_OEBttstck_WHITE,	*,		500,		250
+		MSFC_M4_OEBttstck_ATACS_AU,	*,		500,		250
+		MSFC_M4_OEBttstck_ATACS_FG,	*,		500,		250
+		MSFC_M4_OEBttstck_BLUE,	*,		500,		250
+		MSFC_M4_OEBttstck_EMR,	*,		500,		250
+		MSFC_M4_OEBttstck_Flecktarn,	*,		500,		250
+		MSFC_M4_OEBttstck_HEX,	*,		500,		250
+		MSFC_M4_OEBttstck_MARPAT_WD,	*,		500,		250
+		MSFC_M4_OEBttstck_MULTICAM,	*,		500,		250
+		MSFC_M4_OEBttstck_MULTICAM_BLACK,	*,		500,		250
+		MSFC_M4_OEBttstck_MULTICAM_TROPIC,	*,		500,		250
+		MSFC_M4_OEBttstck_SNAKE,	*,		500,		250
+		MSFC_M4_OEBttstck_SNAKE_GREEN,	*,		500,		250
+		MSFC_M4_OEBttstck_SURPAT,	*,		500,		250
+		MSFC_M4_OEBttstck_VIPER_WESTERN,	*,		500,		250
+		MSFC_M4_OEBttstck_Woodland,	*,		500,		250
+		MSFC_M4_OEBttstck_SURPAT_TAN,	*,		500,		250
+		MSFC_M4_OEBttstck_ORANGE,	*,		500,		250
+		MSFC_M4_OEBttstck_RED,	*,		500,		250
+		MSFC_M4_OEBttstck_DARK,	*,		500,		250
+		MSFC_M4_OEBttstck_MATRIX,	*,		500,		250
+		MSFC_M4_OEBttstck_REDBLACKWHITE,	*,		500,		250
+		MSFC_M4_OEBttstck_Honeycomb,	*,		500,		250
+		MSFC_M4_OEBttstck_STAR,	*,		500,		250
+		MSFC_M4_RISHndgrd_WHITE,	*,		500,		250
+		MSFC_M4_RISHndgrd_ATACS_AU,	*,		500,		250
+		MSFC_M4_RISHndgrd_ATACS_FG,	*,		500,		250
+		MSFC_M4_RISHndgrd_BLUE,	*,		500,		250
+		MSFC_M4_RISHndgrd_EMR,	*,		500,		250
+		MSFC_M4_RISHndgrd_Flecktarn,	*,		500,		250
+		MSFC_M4_RISHndgrd_HEX,	*,		500,		250
+		MSFC_M4_RISHndgrd_MARPAT_WD,	*,		500,		250
+		MSFC_M4_RISHndgrd_MULTICAM,	*,		500,		250
+		MSFC_M4_RISHndgrd_MULTICAM_BLACK,	*,		500,		250
+		MSFC_M4_RISHndgrd_MULTICAM_TROPIC,	*,		500,		250
+		MSFC_M4_RISHndgrd_SNAKE,	*,		500,		250
+		MSFC_M4_RISHndgrd_SNAKE_GREEN,	*,		500,		250
+		MSFC_M4_RISHndgrd_SURPAT,	*,		500,		250
+		MSFC_M4_RISHndgrd_VIPER_WESTERN,	*,		500,		250
+		MSFC_M4_RISHndgrd_Woodland,	*,		500,		250
+		MSFC_M4_RISHndgrd_SURPAT_TAN,	*,		500,		250
+		MSFC_M4_RISHndgrd_ORANGE,	*,		500,		250
+		MSFC_M4_RISHndgrd_RED,	*,		500,		250
+		MSFC_M4_RISHndgrd_DARK,	*,		500,		250
+		MSFC_M4_RISHndgrd_MATRIX,	*,		500,		250
+		MSFC_M4_RISHndgrd_REDBLACKWHITE,	*,		500,		250
+		MSFC_M4_RISHndgrd_Honeycomb,	*,		500,		250
+		MSFC_M4_RISHndgrd_STAR,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_WHITE,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_ATACS_AU,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_ATACS_FG,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_BLUE,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_EMR,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_Flecktarn,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_HEX,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_MARPAT_WD,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_MULTICAM,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_MULTICAM_BLACK,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_MULTICAM_TROPIC,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_SNAKE,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_SNAKE_GREEN,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_SURPAT,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_VIPER_WESTERN,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_Woodland,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_SURPAT_TAN,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_ORANGE,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_RED,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_DARK,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_MATRIX,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_REDBLACKWHITE,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_Honeycomb,	*,		500,		250
+		MSFC_M4_PlasticHndgrd_STAR,	*,		500,		250
+       	 	MSFC_AK_PlasticButtstock_Kryptek_Banshee,	*,		500,		250
+        	MSFC_AK_RailHndgrd_Kryptek_Banshee,	*,		500,		250
+        	MSFC_M4_OEBttstck_Kryptek_Banshee,	*,		500,		250
+        	MSFC_M4_RISHndgrd_Kryptek_Banshee,	*,		500,		250
+        	MSFC_AK_PlasticButtstock_Kryptek_Raid,	*,		500,		250
+        	MSFC_AK_RailHndgrd_Kryptek_Raid,	*,		500,		250
+        	MSFC_M4_OEBttstck_Kryptek_Raid,	*,		500,		250
+        	MSFC_M4_RISHndgrd_Kryptek_Raid,	*,		500,		250
+        	MSFC_AK_PlasticButtstock_Kryptek_Wraith,	*,		500,		250
+        	MSFC_AK_RailHndgrd_Kryptek_Wraith,	*,		500,		250
+        	MSFC_M4_OEBttstck_Kryptek_Wraith,	*,		500,		250
+        	MSFC_M4_RISHndgrd_Kryptek_Wraith,	*,		500,		250
+        	MSFC_AK_PlasticButtstock_Kryptek_Mandrake,	*,		500,		250
+        	MSFC_AK_RailHndgrd_Kryptek_Mandrake,	*,		500,		250
+        	MSFC_M4_OEBttstck_Kryptek_Mandrake,	*,		500,		250
+        	MSFC_M4_RISHndgrd_Kryptek_Mandrake,	*,		500,		250
+        	MSFC_AK_PlasticButtstock_Kryptek_Typhon,	*,		500,		250
+        	MSFC_AK_RailHndgrd_Kryptek_Typhon,	*,		500,		250
+        	MSFC_M4_OEBttstck_Kryptek_Typhon,	*,		500,		250
+        	MSFC_M4_RISHndgrd_Kryptek_Typhon,	*,		500,		250
+        	MSFC_AK_PlasticButtstock_Kryptek_Neptune,	*,		500,		250
+        	MSFC_AK_RailHndgrd_Kryptek_Neptune,	*,		500,		250
+        	MSFC_M4_OEBttstck_Kryptek_Neptune,	*,		500,		250
+        	MSFC_M4_RISHndgrd_Kryptek_Neptune,	*,		500,		250
 
 
 <Trader> Clothing Trader
